@@ -5,7 +5,7 @@ Demo Elasticsearch project with Spring Boot
 
 Branch                                                              | Notes
 --------------------------------------------------------------------|------------------
-[master](https://github.com/sarfophil/products-explorer/tree/master)| Implementation to search and 																	adding products to elasticserver.      
+[master](https://github.com/sarfophil/products-explorer/tree/master)| Implementation to search and 																	adding products to elastic server.      
 
 
 ## Setting up
