@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "691cfdcd-0081-448a-a17f-f95f4258a80d",
+		"name": "Elasticsearch Product API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Add product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search By product name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Search a product from the elasticseacrch server by product name"
+			},
+			"response": []
+		},
+		{
+			"name": "Search by product category",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Search Product by category"
+			},
+			"response": []
+		}
+	]
+}
